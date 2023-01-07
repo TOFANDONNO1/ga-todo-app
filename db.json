@@ -1,3 +1,79 @@
 {
-  "todos": []
+  "todos": [
+    {
+      "value": "g",
+      "isCompleted": false,
+      "id": 1
+    },
+    {
+      "value": "S",
+      "isCompleted": false,
+      "id": 2
+    },
+    {
+      "value": "O",
+      "isCompleted": false,
+      "id": 3
+    },
+    {
+      "value": "U",
+      "isCompleted": false,
+      "id": 4
+    },
+    {
+      "value": "M",
+      "isCompleted": false,
+      "id": 5
+    },
+    {
+      "value": "Y",
+      "isCompleted": false,
+      "id": 6
+    },
+    {
+      "value": "A",
+      "isCompleted": false,
+      "id": 7
+    },
+    {
+      "value": " R",
+      "isCompleted": false,
+      "id": 8
+    },
+    {
+      "value": "A",
+      "isCompleted": false,
+      "id": 9
+    },
+    {
+      "value": " N",
+      "isCompleted": false,
+      "id": 10
+    },
+    {
+      "value": "J",
+      "isCompleted": false,
+      "id": 11
+    },
+    {
+      "value": "A",
+      "isCompleted": false,
+      "id": 12
+    },
+    {
+      "value": "N",
+      "isCompleted": false,
+      "id": 13
+    },
+    {
+      "value": " ROUT",
+      "isCompleted": false,
+      "id": 14
+    },
+    {
+      "value": "TOFANDONNO!",
+      "isCompleted": false,
+      "id": 15
+    }
+  ]
 }
